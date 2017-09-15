@@ -1070,6 +1070,11 @@ footer .copyright {
   -webkit-background-size: cover;
           background-size: cover;
   background-position: 50% 50%;
+   border: 3px solid;
+    border-image: linear-gradient(to left, rgb(176, 78, 174) 1%, #4f9fcf 100%);
+    border-image-slice: 1;
+    padding-top: 50px;
+   
 }
 
 .post .post-content {
