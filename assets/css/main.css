@@ -950,8 +950,8 @@ pre code {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
-  font-weight: 400;
+  color: #4f9fcf;
+  font-weight: bolder;
   font-size: 12px;
   margin: 0 0 5px;
   text-transform: uppercase;
@@ -985,7 +985,7 @@ pre code {
   position: absolute;
   top: 50%;
   right: 0;
-  background-color: #515151;
+  background-color: #7144a3;
 }
 
 .contact ul {
