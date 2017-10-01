@@ -947,7 +947,9 @@ pre code {
       -ms-flex-align: stretch;
           align-items: stretch;
 }
-
+li.github {
+    display: none !important;
+}
 .contact .contact-title {
   position: relative;
   color: #4f9fcf;
