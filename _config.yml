@@ -8,6 +8,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
+name: Desplegar Nada
 author: Luis Mella # add your name
 author-img: logo2.jpg # add your photo
 about-author: Blog personal, bitacora, ideas, referencias y analisis. # add description
@@ -25,6 +26,7 @@ analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-sitemap
 
